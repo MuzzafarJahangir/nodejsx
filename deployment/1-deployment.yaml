@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: muzzafarjahangir/webx:4.0
+        image: muzzafarjahangir/cgirepo:7
         resources:
           limits:
             memory: "128Mi"
